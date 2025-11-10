@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Me chamo Jheferson Gonçalves dos Reis, tenho 21 anos e sou natural de Caratinga - Minas Gerais. Atualmente, estou cursando Ciência da Computação na Estácio.
+Me chamo Jheferson Gonçalves dos Reis, tenho 22 anos e sou natural de Caratinga - Minas Gerais. Atualmente, estou cursando Ciência da Computação na Estácio.
 
 ---
 
